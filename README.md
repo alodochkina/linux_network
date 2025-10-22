@@ -14,6 +14,3 @@ How to view
 Notes
 - The report contains step-by-step parts: ipcalc, static routing, iperf3, firewall, static routing lab, DHCP, and NAT.
 - No build is required — this is documentation and screenshots.
-
-Contact
-- For questions about this repository, open an issue in the project or comment in the report.
